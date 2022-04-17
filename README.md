@@ -1,14 +1,15 @@
+and ensuring that `$GOPATH/bin` is added to your `$PATH`.
 # Machine Learning
 ## Overview
 ## Knowledge Basic
-[Concepts]: ./docs/best-practices.md
-[ConcepModelingts]: ./docs/best-practices.md
-[Metrics]: ./docs/best-practices.md
+[Concepts]: ./modeling/readme.md
+[ConcepModelingts]: ./modeling/readme.md
+[Metrics]: ./modeling/readme.md
 ## Problems
-[Concepts]: ./docs/best-practices.md
-[ConcepModelingts]: ./docs/best-practices.md
-[Metrics]: ./docs/best-practices.md
+[Concepts]: ./modeling/readme.md
+[ConcepModelingts]: ./modeling/readme.md
+[Metrics]: ./modeling/readme.md
 ## Solutions
-[Concepts]: ./docs/best-practices.md
-[ConcepModelingts]: ./docs/best-practices.md
-[Metrics]: ./docs/best-practices.md
+[Concepts]: ./modeling/readme.md
+[ConcepModelingts]: ./modeling/readme.md
+[Metrics]: ./modeling/readme.md
