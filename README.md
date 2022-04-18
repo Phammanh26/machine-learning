@@ -7,7 +7,7 @@ Machine learning is  applied in many fields from business to utility tools:
 - Ecommerce: Product recommendations
 - Medical: 
 - Utility tools: Image Recognition, Speech Recognition, Traffic prediction.
-Beside, machine learning has contributions in the field of artificial intelligence research.
+- Beside, machine learning has contributions in the field of artificial intelligence research.
 ## Concepts
 - Loss function?
 - Math background?
