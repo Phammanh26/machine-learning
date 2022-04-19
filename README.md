@@ -10,16 +10,30 @@ Machine Learning is generally categorized into three types:
 - Reinforcement learning:
 
 Machine learning is  applied in many fields from business to utility tools:
-- Ecommerce: Product recommendations
-- Medical: 
+- Ecommerce: Search Enginesm, Product recommendations, Personalization.
+- Medical:  Reconstructing diseases, Hypothesis testing, Developing diagnostics.
 - Utility tools: Image Recognition, Speech Recognition, Traffic prediction.
 - Beside, machine learning has contributions in the field of artificial intelligence research.
 ## Concepts
-- Loss function?
-- Math background?
+- Model baseline.
+- Loss function.
+- Model Machine learning.
+- Metrics evalute.
 
-## Modeling
-## Metrics
+- Method Improve Machine Learning Modeling:
+    + Overfitting
+    + K-fold
+    + 
+    
+- Application Machine Learning:
+    + Purchase prediction.
+    + Sentiment analyst prediction.
+    + Recommend systems.
+    + Image Recognition.
+    + Automating Employee Access Control.
+    + Group topic.
+    +
+
 ## Problems
 ## Solutions
 
