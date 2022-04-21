@@ -7,7 +7,7 @@ Machine Learning is generally categorized into three types:
 - Supervised Learning: each sample have labels (as targets). The labels in the data help the algorithm to correlate the features (most algithmns:  classification and regression).
 - Unsupervised Learning: each sample have not label (as targets). Because samples not have label, so Unsupervised Learning only can help to group similar samples together called clustering  (most algithmns:  K-Mean and K-nearest neighbors).
 
-- Reinforcement learning:
+- Reinforcement learning: is training machine learning models to make a sequence of decisions. The agent learns how to achieve a goal in an uncertain, possibly complex environment.
 
 Machine learning is  applied in many fields from business to utility tools:
 - Ecommerce: Search Enginesm, Product recommendations, Personalization.
@@ -15,9 +15,15 @@ Machine learning is  applied in many fields from business to utility tools:
 - Utility tools: Image Recognition, Speech Recognition, Traffic prediction.
 - Beside, machine learning has contributions in the field of artificial intelligence research.
 ## Concepts
-- Model baseline.
+
+### Model Machine learning
+#### Linear Regression
+
+#### Logistic Regression
+#### K-mean
+#### Cluster
 - Loss function.
-- Model Machine learning.
+- Model baseline.
 - Metrics evalute.
 
 - Method Improve Machine Learning Modeling:
@@ -35,6 +41,8 @@ Machine learning is  applied in many fields from business to utility tools:
     +
 
 ## Problems
-## Solutions
+## Question
+- What difference between Machine learning vs Deep Learning?
+- What is Overfitting and Underfitting? Solutions?
 
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings -->
