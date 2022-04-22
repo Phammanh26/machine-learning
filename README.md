@@ -19,6 +19,14 @@ Machine learning is  applied in many fields from business to utility tools:
 ### Model Machine learning
 #### Linear Regression
 ''' Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable. '''
+
++ Independent variable: can't change by other variable, independent variables are effect each other.
++ Dependent variable: is 'dependent' on the independent variable.
++ Loss Function:  Least Squared Error
++ Cost Function:  Mean Squared Error(MSE)
++ Gradient descent:
++ Learning Rate:
+
 #### Logistic Regression
 #### K-mean
 #### Cluster
